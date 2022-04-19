@@ -1,5 +1,5 @@
 # Script per tesseract (console windows)
-quale necessità mi ha portato alla sua creazione? Ho un vecchio libro cartaceo di cui non esiste la versione digitale, che vorrei creare io. L'ho scannerizzato e ci ho creato un pdf. Da qui, in ambiente windows, ho usato "any pdf to jpg" per creare n (numero di pagine) immagini tif. mi serviva qualcosa per automatizzare il processo di scansione OCR della pagina, creazione di un file txt e merge di tutte le pagine.
+A quale necessità risponde? Ho un vecchio libro cartaceo di cui non esiste la versione digitale, che vorrei creare io. L'ho scannerizzato e ci ho creato un pdf. Da qui, in ambiente windows, ho usato "any pdf to jpg" per creare n (numero di pagine) immagini tif. mi serviva qualcosa per automatizzare il processo di scansione OCR della pagina, creazione di un file txt e merge di tutte le pagine.
 
 ## cosa serve
 1. le foto da scansionare
