@@ -5,7 +5,7 @@ goto :start
 :start
 
 for /L %%i IN (1,1,n) DO (
-	tesseract C:[percorso]\nomefoto_%%i.tif C:[percorso]\nomefoto__%%i.txt
+	tesseract C:[percorso]\nomefoto_%%i.tif C:[percorso]\nomefoto_%%i.txt
 	copy C:[percorso]\filefinale.txt+C:[percorso]\nomefoto_%%i.txt.txt C:[percorso]\filefinale.txt
 	del C:[percorso]\nomefoto_%%i.txt.txt /q
 	)
